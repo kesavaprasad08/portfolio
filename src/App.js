@@ -1,4 +1,5 @@
 import "./App.css";
+import GetInTouch from "./components/GetInTouch";
 import Header from "./components/Header/Header";
 import Home from "./components/Home";
 import MyProjects from "./components/MyProjects";
@@ -10,6 +11,7 @@ function App() {
       <Home />
       <TechStack />
       <MyProjects />
+      <GetInTouch />
     </div>
   );
 }

@@ -6,7 +6,7 @@ const Header = () => {
   };
 
   return (
-    <nav className="fixed w-screen items-end    ">
+    <nav className="fixed w-screen items-end">
       <div className="bg-navGreen p-3 flex justify-between w-full lg:pl-16 border-b border-slate-700">
         <p>
           <span className="text-white">KESAVA </span>{" "}
@@ -18,7 +18,7 @@ const Header = () => {
             <a href="#skills">Skills </a>
           </li>
           <li className="ml-5 hover:text-green-500">
-            <a href="#portfolio">Portfolio </a>
+            <a href="#myProjects">My Works </a>
           </li>
           <li className="ml-5 hover:text-green-500">
             <a href="#contact">Contact </a>
