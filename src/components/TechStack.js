@@ -11,12 +11,11 @@ import { SiTailwindcss } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import { FaAws } from "react-icons/fa";
 
-
 const TechStack = () => {
   return (
-    <div className="bg-pageGreen h-screen text-white flex flex-col items-center text-center">
+    <div className="  text-white flex flex-col items-center text-center">
       <p className="text-white text-3xl mb-10"> My Tech Stack</p>
-      <ul className="flex  flex-wrap w-5/12 mt-5 justify-center col-start-2 pl-5" >
+      <ul className="flex  flex-wrap w-5/12 mt-5 justify-center col-start-2 pl-5">
         <li className="pr-10  pb-5 hover:scale-110">
           <IoLogoJavascript className="text-6xl " />
           JavaScript
@@ -25,11 +24,11 @@ const TechStack = () => {
           <FaHtml5 className="text-6xl" />
           HTML
         </li>
-        <li className='pr-10 pb-5 hover:scale-110'>
+        <li className="pr-10 pb-5 hover:scale-110">
           <FaCss3 className="text-6xl" />
           CSS
         </li>
-        <li className='pr-10 pb-5 hover:scale-110'>
+        <li className="pr-10 pb-5 hover:scale-110">
           <FaReact className="text-6xl" />
           React Js
         </li>
@@ -52,7 +51,7 @@ const TechStack = () => {
         <li className="pr-10 pb-5 hover:scale-110">
           <SiRedux className="text-6xl" />
           Redux
-        </li> 
+        </li>
         <li className="pr-10 pb-5 hover:scale-110">
           <SiTailwindcss className="text-6xl" />
           Tailwind CSS
