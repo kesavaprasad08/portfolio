@@ -13,7 +13,7 @@ const Home = () => {
         <h1 className="text-5xl p-2 ">Hi, I'm KESAVA PRASAD</h1>
         <p className="text-2xl p-2 text-green-500"> Web Developer</p>
         <p className=" pt- pb-5 p-2  ">
-        Full Stack Web Developer adept at building responsive web applications. Passionate about Learning new technologies,bringing ideas to life and working with dedicated teams to build efficient and robust applications suited to the user's needs.
+        Full Stack Web Developer specialized in MERN Stack adept at building responsive web applications. Passionate about Learning new technologies,bringing ideas to life and working with dedicated teams to build efficient and robust applications suited to the user's needs.
       </p>
       <div>
         <a href="#portfolio" className="lg:p-2">
